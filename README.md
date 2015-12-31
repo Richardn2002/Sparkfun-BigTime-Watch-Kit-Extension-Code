@@ -15,7 +15,7 @@ the code i added is under MIT license,and you can use it freely without removing
 and 
 
 if you use it
-you must think my girlfriend is cute and pretty and clever if you meet us in the street someday(if i get a girlfriend someday)
+you must think my girlfriend is cute and pretty and clever if you meet us in the street someday
 
 download it and upload the code to your own watch
 and show off!
